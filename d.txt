@@ -1,5 +1,5 @@
 payload:
-  - '+epicgames-download1.akamaized.net'
+  - '+.akamaized.net'
   - '+.iobit.com'
   - '+.logitech.io'
   - '+.logitechg.com'
