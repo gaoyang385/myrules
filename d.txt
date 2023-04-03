@@ -1,5 +1,5 @@
 payload:
-  - '+.akamaized.net'
+  - '+epicgames-download1.akamaized.net'
   - '+.iobit.com'
   - '+.logitech.io'
   - '+.logitechg.com'
@@ -17,5 +17,5 @@ payload:
   - '+.gstaic.com'
   - '+.bing.net'
   - '+.bing.com'
-  - '+.clash.razord.top'
-  - '+.yacd.haishan.me'
+  - '+clash.razord.top'
+  - '+yacd.haishan.me'
