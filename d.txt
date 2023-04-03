@@ -5,6 +5,7 @@ payload:
   - '+.logitechg.com'
   - '+.nvidia.com'
   - '+.microsoft.com'
+  - '+.microsoft.net'
   - '+.windows.net'
   - '+.windows.com'
   - '+.msn.com'
