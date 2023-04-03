@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,SearchHost.exe
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,xray
   - PROCESS-NAME,naive
