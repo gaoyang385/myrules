@@ -20,3 +20,7 @@ payload:
   - '+.bing.com'
   - '+clash.razord.top'
   - '+yacd.haishan.me'
+  - '+.office.com'
+  - '+.office.net'
+  - '+.msedge.net'
+  - '+.azureedge.net'
