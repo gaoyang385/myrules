@@ -1,5 +1,6 @@
 payload:
   - PROCESS-NAME,SearchHost.exe
+  - PROCESS-NAME,msedge.exe
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,xray
   - PROCESS-NAME,naive
