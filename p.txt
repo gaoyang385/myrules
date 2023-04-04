@@ -1,2 +1,0 @@
-payload:
-  - '+.web2asia.net'
