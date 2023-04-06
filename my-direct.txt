@@ -1,4 +1,5 @@
 payload:
+  - '+.exp-tas.com'
   - '+.apple-cloudkit.com'
   - '+.visualstudio.com'
   - '+.trafficmanager.net'
