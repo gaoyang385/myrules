@@ -50,3 +50,4 @@ payload:
   - PROCESS-NAME,GameBar.exe
   - PROCESS-NAME,msedgewebview2.exe
   - PROCESS-NAME,Code.exe
+  - PROCESS-NAME,svchost.exe
