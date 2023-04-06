@@ -1,4 +1,5 @@
 payload:
+  - '+.apple.com'
   - '+.exp-tas.com'
   - '+.apple-cloudkit.com'
   - '+.visualstudio.com'
