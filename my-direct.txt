@@ -1,4 +1,7 @@
 payload:
+  - '+.apple-cloudkit.com'
+  - '+.update.code.visualstudio.com'
+  - '+.vscode-sync.trafficmanager.net'
   - '+.akamaized.net'
   - '+.iobit.com'
   - '+.logitech.io'
