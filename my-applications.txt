@@ -51,3 +51,5 @@ payload:
   - PROCESS-NAME,msedgewebview2.exe
   - PROCESS-NAME,Code.exe
   - PROCESS-NAME,svchost.exe
+  - PROCESS-NAME,lghub.exe
+  - PROCESS-NAME,lsass.exe
