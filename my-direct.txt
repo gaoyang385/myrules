@@ -1,4 +1,5 @@
 payload:
+  - '+.msecnd.net'
   - '+.apple.com'
   - '+.exp-tas.com'
   - '+.apple-cloudkit.com'
