@@ -1,3 +1,4 @@
 payload:
   - '+.googleapis.cn'
   - '+.web2asia.cc'
+  - '+.freenom.com'
