@@ -3,4 +3,3 @@ payload:
   - '+.web2asia.cc'
   - '+.freenom.com'
   - '+.freenom.world'
-  - '+.namecheap.com'

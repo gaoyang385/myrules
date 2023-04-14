@@ -1,4 +1,5 @@
 payload:
+  - '+.namecheap.com'
   - '+.web2asia.net'
   - '+.v2rayssr.com'
   - '+.yugogo.xyz'
