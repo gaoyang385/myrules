@@ -1,4 +1,5 @@
 payload:
+  - '+.civitai.com'
   - '+.namecheap.com'
   - '+.web2asia.net'
   - '+.v2rayssr.com'
