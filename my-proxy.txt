@@ -1,5 +1,5 @@
 payload:
-  - '+.thebreakfast.app'
+  - '+.thebreakfast.app'
   - '+.civitai.com'
   - '+.namecheap.com'
   - '+.web2asia.net'
