@@ -1,4 +1,5 @@
 payload:
+  - '+.danhu.ml'
   - '+.msecnd.net'
   - '+.apple.com'
   - '+.exp-tas.com'

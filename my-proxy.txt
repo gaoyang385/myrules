@@ -1,5 +1,4 @@
 payload:
-  - '+.danhu.ml'
   - '+.thebreakfast.app'
   - '+.civitai.com'
   - '+.namecheap.com'
