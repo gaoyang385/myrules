@@ -1,4 +1,5 @@
 payload:
+  - '+.ping.me'
   - '+.thebreakfast.app'
   - '+.civitai.com'
   - '+.namecheap.com'
