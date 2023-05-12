@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="auto_connect" value="-1" />
+    <string name="remote_config">{organization:web3china,gateway_unique_id:cdbd8d843bb6ceeba49c5f3771caec06,exclude:[{address:10.0.0.0/8},{address:100.64.0.0/10},{address:169.254.0.0/16,description:DHCP Unspecified},{address:172.16.0.0/12},{address:192.0.0.0/24},{address:192.168.0.0/16},{address:224.0.0.0/24},{address:240.0.0.0/4},{address:255.255.255.255/32,description:DHCP Broadcast},{address:fe80::/10,description:IPv6 Link Local},{address:fd00::/8},{address:ff01::/16},{address:ff02::/16},{address:ff03::/16},{address:ff04::/16},{address:ff05::/16}],fallback_domains:[{suffix:home.arpa},{suffix:intranet},{suffix:internal},{suffix:private},{suffix:localdomain},{suffix:domain},{suffix:lan},{suffix:home},{suffix:host},{suffix:corp},{suffix:local},{suffix:localhost},{suffix:invalid},{suffix:test}],allow_mode_switch:false}</string>
+    <string name="app_mode">WARP</string>
+    <string name="correlation_id">t.0ddd1c43-e191-11ed-8d5c-366b8b2ee990</string>
+    <string name="team_name">web3china</string>
+    <string name="warp_public_key">8DjWV29C0TIbhHZtyD+raQznZmRB8JepYhPRNW/hzhU=</string>
+    <boolean name="is_device_name_submitted" value="true" />
+    <boolean name="onboardingstatus" value="true" />
+    <boolean name="missing_splits" value="false" />
+    <boolean name="is_service_running" value="true" />
+    <boolean name="power_manager_warning_shown" value="true" />
+    <boolean name="switch_locked" value="false" />
+    <string name="gatewayUniqueID">cdbd8d843bb6ceeba49c5f3771caec06</string>
+    <string name="warp_plus_reward_info">{premium_data_bytes:0,referral_reward_bytes:1000000000,denylist:[{name:Netflix,visible:true,android-packages:[com.netflix.mediaclient]},{name:BBC iPlayer,visible:true,android-packages:[com.bbc.globaliplayerradio.international,bbc.iplayer.android]},{name:YouTube,visible:true,android-packages:[com.google.android.youtube,com.google.android.apps.youtube.mango]},{name:DisneyLife,visible:true,android-packages:[com.disney.disneylife_goo]},{name:Hulu,visible:true,android-packages:[com.hulu.plus]},{name:HBO,visible:true,android-packages:[com.hbo.hbonow]},{name:Google Photos,visible:true,android-packages:[com.google.android.apps.photos]},{name:LAN,visible:false,networks:{v4:[{address:10.0.0.0,netmask:255.0.0.0},{address:100.64.0.0,netmask:255.192.0.0},{address:169.254.0.0,netmask:255.255.0.0},{address:172.16.0.0,netmask:255.240.0.0},{address:192.0.0.0,netmask:255.255.255.0},{address:192.168.0.0,netmask:255.255.0.0},{address:224.0.0.0,netmask:255.255.255.0},{address:240.0.0.0,netmask:240.0.0.0},{address:239.255.255.250,netmask:255.255.255.255},{address:255.255.255.255,netmask:255.255.255.255}],v6:[{address:fe80::,prefix:10},{address:fd00::,prefix:8},{address:ff01::,prefix:16},{address:ff02::,prefix:16},{address:ff03::,prefix:16},{address:ff04::,prefix:16},{address:ff05::,prefix:16},{address:fc00::,prefix:7}]}}]}</string>
+    <string name="warp_token">273a243a-bac3-4033-b7df-fdd174b5af0e</string>
+    <string name="warp_tunnel_config">{peers:[{public_key:bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=,endpoint:{v4:162.159.193.10:0,v6:[2606:4700:100::a29f:c10a]:0}}],client_id:nBD2,interface:{addresses:{v4:172.16.0.2,v6:2606:4700:110:8585:f683:9d2e:4cf8:d0e7}},services:{http_proxy:172.16.0.1:2480}}</string>
+    <boolean name="is_managed" value="false" />
+    <string name="warp_private_key">0IGIaHlmcXQyl3sr8gkuwqPsdTpuFORBz3As3+L4ZXs=</string>
+    <string name="warp_account">{account_type:team,premium_data:0,quota:0,referral_count:0,managed:not_api_managed}</string>
+    <string name="account_policy">{managed:not_api_managed,accountAppConfiguration:{organization:web3china,gateway_unique_id:cdbd8d843bb6ceeba49c5f3771caec06,exclude:[{address:10.0.0.0/8},{address:100.64.0.0/10},{address:169.254.0.0/16,description:DHCP Unspecified},{address:172.16.0.0/12},{address:192.0.0.0/24},{address:192.168.0.0/16},{address:224.0.0.0/24},{address:240.0.0.0/4},{address:255.255.255.255/32,description:DHCP Broadcast},{address:fe80::/10,description:IPv6 Link Local},{address:fd00::/8},{address:ff01::/16},{address:ff02::/16},{address:ff03::/16},{address:ff04::/16},{address:ff05::/16}],fallback_domains:[{suffix:home.arpa},{suffix:intranet},{suffix:internal},{suffix:private},{suffix:localdomain},{suffix:domain},{suffix:lan},{suffix:home},{suffix:host},{suffix:corp},{suffix:local},{suffix:localhost},{suffix:invalid},{suffix:test}],allow_mode_switch:false}}</string>
+    <string name="warp_registration_id">t.0ddd1c43-e191-11ed-8d5c-366b8b2ee990</string>
+    <boolean name="show_enable_warp_dialog" value="false" />
+    <string name="terms_acceptance_date">2023-04-23T12:39:52.631+08:00</string>
+</map>
