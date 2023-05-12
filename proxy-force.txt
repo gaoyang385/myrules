@@ -2,3 +2,4 @@ payload:
   - '+.googleapis.cn'
   - '+.freenom.com'
   - '+.freenom.world'
+  - '+.kejilion.pro'
