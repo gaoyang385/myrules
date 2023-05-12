@@ -3,3 +3,4 @@ payload:
   - '+.freenom.com'
   - '+.freenom.world'
   - '+.kejilion.pro'
+  - '+.universalis.app'
