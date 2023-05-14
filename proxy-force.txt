@@ -4,3 +4,4 @@ payload:
   - '+.freenom.world'
   - '+.kejilion.pro'
   - '+.universalis.app'
+  - '+.hostloc.com'
