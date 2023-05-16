@@ -5,3 +5,4 @@ payload:
   - '+.kejilion.pro'
   - '+.universalis.app'
   - '+.hostloc.com'
+  - '+.misaka.rest'
