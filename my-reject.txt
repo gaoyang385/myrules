@@ -1,4 +1,5 @@
 payload:
+  - '+.kamori.goats.dev/File/Get/6366fa37953b97b2cad779a3afab37207be373ec3e0172e94b1d5f83a3e38827'
   - '+.gvt3.com'
   - '+.0.nextyourcontent.com'
   - '+.00-gov.cn'
