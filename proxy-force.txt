@@ -6,3 +6,4 @@ payload:
   - '+.universalis.app'
   - '+.hostloc.com'
   - '+.misaka.rest'
+  - '+.mitmproxy.org'
