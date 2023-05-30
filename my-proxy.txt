@@ -1,4 +1,5 @@
 payload:
+  - '+.timelapsevision.com'
   - '+.ping.me'
   - '+.thebreakfast.app'
   - '+.civitai.com'
