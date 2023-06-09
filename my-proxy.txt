@@ -1,4 +1,5 @@
 payload:
+  - '+.keeflys.com'
   - '+.timelapsevision.com'
   - '+.ping.me'
   - '+.thebreakfast.app'
