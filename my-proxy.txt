@@ -1,4 +1,5 @@
 payload:
+  - '+.'
   - '+.weesunday.com'
   - '+.keeflys.com'
   - '+.timelapsevision.com'
