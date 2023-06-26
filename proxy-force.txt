@@ -1,4 +1,5 @@
 payload:
+  - '+.xxxxx528.com'
   - '+.googleapis.cn'
   - '+.freenom.com'
   - '+.freenom.world'
