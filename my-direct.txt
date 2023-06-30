@@ -21,7 +21,6 @@ payload:
   - '+.xboxlive.com'
   - '+.decrypt.day'
   - '+.steamcontent.com'
-  - '+.huggingface.co'
   - '+.gstaic.com'
   - '+.bing.net'
   - '+.bing.com'

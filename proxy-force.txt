@@ -8,3 +8,4 @@ payload:
   - '+.hostloc.com'
   - '+.misaka.rest'
   - '+.mitmproxy.org'
+  - '+.huggingface.co'
