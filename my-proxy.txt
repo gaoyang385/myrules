@@ -1,4 +1,5 @@
 payload:
+  - '+.warcraftlogs.com'
   - '+.weesunday.com'
   - '+.keeflys.com'
   - '+.timelapsevision.com'
