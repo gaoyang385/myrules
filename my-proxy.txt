@@ -1,4 +1,5 @@
 payload:
+  - '+.yuzu-emu.org'
   - '+.warcraftlogs.com'
   - '+.weesunday.com'
   - '+.keeflys.com'
