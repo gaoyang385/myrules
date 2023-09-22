@@ -2,3 +2,4 @@ payload:
   - '+.m.taobao.com'
   - '+.web2asia.cc'
   - '+.web3china.top'
+  - '+.epicgames.com'
