@@ -3,3 +3,6 @@ payload:
   - '+.web2asia.cc'
   - '+.web3china.top'
   - '+.epicgames.com'
+  - '+.steamstatic.com'
+  - '+.steamstatic.com.8686c.com'
+  - '+.my.steamchina.com'
