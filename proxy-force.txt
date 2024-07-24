@@ -9,4 +9,3 @@ payload:
   - '+.misaka.rest'
   - '+.mitmproxy.org'
   - '+.huggingface.co'
-  - '+.overwolf.com'
