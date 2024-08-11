@@ -10,3 +10,4 @@ payload:
   - '+.mitmproxy.org'
   - '+.huggingface.co'
   - '+.155zy.com'
+  - '+.archive.org'
