@@ -11,3 +11,4 @@ payload:
   - '+.huggingface.co'
   - '+.155zy.com'
   - '+.archive.org'
+  - '+.autohotkey.com'
