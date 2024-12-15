@@ -12,3 +12,4 @@ payload:
   - '+.155zy.com'
   - '+.archive.org'
   - '+.autohotkey.com'
+  - '+.misakaf.org'
