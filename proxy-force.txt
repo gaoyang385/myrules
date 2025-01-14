@@ -13,3 +13,4 @@ payload:
   - '+.archive.org'
   - '+.autohotkey.com'
   - '+.misakaf.org'
+  - '+.zox.show'
